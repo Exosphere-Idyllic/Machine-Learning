@@ -1,0 +1,13 @@
+{
+  "enfoque": "B - Clasificación binaria 'Smiling' (ResNet50)",
+  "atributo": "Smiling",
+  "umbral": 0.5,
+  "accuracy_test": 0.8444444444444444,
+  "f1_test": 0.8317307692307693,
+  "auc_test": 0.9084611578426521,
+  "input_size": [
+    224,
+    224,
+    3
+  ]
+}

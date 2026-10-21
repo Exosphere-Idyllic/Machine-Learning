@@ -1,0 +1,13 @@
+{
+  "enfoque": "A - Reconocimiento por identidad (ResNet50)",
+  "n_identidades": 80,
+  "accuracy_test": 0.5085324232081911,
+  "top5_accuracy_test": 0.7747440273037542,
+  "f1_macro": 0.48757690226440226,
+  "f1_weighted": 0.4972310491935065,
+  "input_size": [
+    224,
+    224,
+    3
+  ]
+}
